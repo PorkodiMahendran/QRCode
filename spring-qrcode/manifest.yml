@@ -1,0 +1,8 @@
+---
+applications:
+- name: spring-qrcode
+  memory: 512M
+  instances: 1
+  host: spring-qrcode
+  path: target/spring-qrcode-1.0.3.jar
+ 
